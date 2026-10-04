@@ -1,0 +1,2 @@
+-keep class com.tzvi.drivedownloadmonitor.service.** { *; }
+-keep class com.tzvi.drivedownloadmonitor.domain.model.** { *; }
