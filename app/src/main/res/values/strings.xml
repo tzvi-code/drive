@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Drive Download Monitor</string>
+    <string name="monitor_channel_name">ניטור הורדות</string>
+    <string name="monitor_channel_description">שירות רקע לניטור הורדות מ-Google Drive</string>
+    <string name="monitoring_notification_title">Drive Download Monitor פעיל</string>
+    <string name="monitoring_notification_text">ממתין ומנטר הורדות</string>
+    <string name="notification_access_title">גישה להתראות</string>
+    <string name="notification_access_description">מאפשר לאפליקציה לזהות מתי Google Drive מתחיל או מסיים הורדה.</string>
+    <string name="overlay_title">הצגה מעל אפליקציות</string>
+    <string name="overlay_description">נדרש כדי להציג את מד ההורדה הצף מעל כל אפליקציה.</string>
+    <string name="post_notifications_title">הרשאת התראות</string>
+    <string name="post_notifications_description">נדרשת להתראה של שירות הניטור. ב-Android 12 ומטה אין צורך בבקשה זו.</string>
+    <string name="downloads_access_title">גישה לתיקיית Downloads</string>
+    <string name="downloads_access_description">בחר את תיקיית Downloads כדי לאפשר מעקב אחרי גודל הקובץ שנכתב בפועל.</string>
+    <string name="legacy_storage_title">גישה לאחסון (Android 9 ומטה)</string>
+    <string name="legacy_storage_description">נדרשת בגרסאות ישנות כדי לקרוא את קובצי ההורדה.</string>
+    <string name="battery_title">ללא אופטימיזציית סוללה</string>
+    <string name="battery_description">מומלץ כדי לצמצם את הסיכוי שהמערכת תעצור את שירות הניטור.</string>
+    <string name="granted">מאושר</string>
+    <string name="missing">חסר</string>
+    <string name="open_settings">פתח הגדרות</string>
+    <string name="choose_folder">בחר תיקייה</string>
+    <string name="request">אישור</string>
+    <string name="start_monitor">הפעל ניטור</string>
+    <string name="stop_monitor">עצור ניטור</string>
+    <string name="monitoring_status">מצב הניטור</string>
+    <string name="ready">מוכן</string>
+    <string name="not_ready">נדרשת הגדרה</string>
+    <string name="privacy_note">האפליקציה אינה מורידה קבצים ואינה מתחברת לחשבון Google. היא רק קוראת התראות ומנטרת את גודל הקובץ המקומי.</string>
+</resources>
