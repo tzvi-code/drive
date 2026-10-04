@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.tzvi.drivedownloadmonitor"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.tzvi.drivedownloadmonitor"
